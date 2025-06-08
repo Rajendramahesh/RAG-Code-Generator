@@ -1,0 +1,4 @@
+gitpython
+langchain
+sentence_transformers
+supabase
